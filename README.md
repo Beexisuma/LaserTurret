@@ -13,4 +13,3 @@ A fully automated laser turret powered by computer vision and custom hardware.
 
 🔴 Laser dynamically tracks detected faces with minimal latency
 
-Built for experimentation in AI-driven mechatronics and real-time object tracking.
